@@ -14,8 +14,10 @@ For this project, I am helping a Python-based ridesharing company called Pyber. 
   
   •	Urban: Has the highest total rides, totaling 1,625. It also has the most total drivers at 2,405. It has more drivers than total rides. Generating more than nine times total fares compared to rural areas, urban cities generate $39,854.38. This indicates that urban cities generate the most revenue. It also as the least expensive average fare per ride, $24.53 and $16.57 is the average fare per driver.  
 
-
 ### Figure 2: Total Fare by City Type
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/110318652/195474347-a008bc75-270e-49a3-815a-184fb31e25db.png)
+
+Figure 2 shows the revenue of the total fares per city type between January and May. The chart indicates that urban cities generate the most total revenue. Suburban cities earn the second highest. Rural areas generate the least amount of revenue. This information is not surprising based on the data shown in figure 1.
+
 
 
