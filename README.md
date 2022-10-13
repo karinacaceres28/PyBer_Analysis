@@ -4,3 +4,7 @@ analyzing and using visualizations to improve access ridsharing services determi
 
 
 <img width="600" alt="pyber_summary_df" src="https://user-images.githubusercontent.com/110318652/195474272-ea30e838-9528-4e08-b67a-b6403c4c076a.png">
+
+
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/110318652/195474347-a008bc75-270e-49a3-815a-184fb31e25db.png)
