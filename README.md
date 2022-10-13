@@ -19,5 +19,11 @@ For this project, I am helping a Python-based ridesharing company called Pyber. 
 
 Figure 2 shows the revenue of the total fares per city type between January and May. The chart indicates that urban cities generate the most total revenue. Suburban cities earn the second highest. Rural areas generate the least amount of revenue. This information is not surprising based on the data shown in figure 1.
 
+## Summary
+  1)	As indicated in the data, urban cities are the best performing cities type because they have the greatest total rides and total fares. This is due to having the greatest number of people per square mile. This could generate more profit in the future, the more investments it has.
 
+  2)	Suburban cities are shown to be the next best city type. However, its total drivers count does not meet the demand of the total rides. Perhaps investing into getting more drivers could generate more profit, as it would decrease waiting time and encourage consumers to use Pyber.
+ 
+  3)	The data for rural areas indicate having the least amount of revenue. However, it has the most expensive average of fare per ride and average fare per driver when compared to urban and suburban cities. Perhaps decreasing the price of rides could encourage more consumer to use the Pyber. 
+![image](https://user-images.githubusercontent.com/110318652/195483226-5b232f5e-fdc8-4fa2-92fa-97ec5ee6ba89.png)
 
