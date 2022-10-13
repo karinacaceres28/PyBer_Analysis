@@ -17,3 +17,5 @@ For this project, I am helping a Python-based ridesharing company called Pyber. 
 
 ### Figure 2: Total Fare by City Type
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/110318652/195474347-a008bc75-270e-49a3-815a-184fb31e25db.png)
+
+
